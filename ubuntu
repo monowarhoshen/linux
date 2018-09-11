@@ -1,4 +1,21 @@
 #File Permission Comand
-# sudo chmode 777 -R File Location (/opt/lampp).
+  .sudo chmod -R 777 File Location (/opt/lampp).
 #Software Fully Unistall Comand
-# sudo apt-get autoremove SoftwareName(Eclipse)
+  1.sudo apt-get autoremove SoftwareName(Eclipse)
+
+#Modem Install Comand(Gp Modem)
+	1.First connect gp modem to pc via usb port,
+	2.Open GP Modem from File
+	3.Open Linux Folder.
+	4.Find PCL_Bengali_GP.tar.gz 
+	5.Copy PCL_Bengali_GP.tar.gz and Past Desktop
+	6.Extract PCL_Bengali_GP.tar.gz zip file.
+	7.find "PCL_Bengali_GP".
+	8.Open Terminal 
+	9. Type cd desktop
+	10.Type cd PCL_Bengali_GP 
+	11.Type sudo bash install.sh
+ #increase Mozila Font size
+	1.Search about:config from searchbar
+	2.search ayout.css.devPixelsPerPx from about:config search bar
+	3.increase Value
