@@ -1,0 +1,4 @@
+#File Permission Comand
+# sudo chmode 777 -R File Location (/opt/lampp).
+#Software Fully Unistall Comand
+# sudo apt-get autoremove SoftwareName(Eclipse)
